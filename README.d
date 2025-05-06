@@ -21,28 +21,3 @@ A simple and responsive Omelette Recipe website built using **HTML** and **CSS**
 
 ## 📁 Folder Structure
 
-omelette-recipe/
-├── index.html
-└── style.css
-
-
-## 🧾 How to Use
-
-1. Clone or download the project.
-2. Open the `index.html` file in your browser.
-3. Explore the omelette recipe layout.
-
-## 💡 What I Learned
-
-- Structuring semantic HTML
-- Writing clean and reusable CSS
-- Designing responsive and static web pages
-- Improving UI/UX skills
-
-## 📬 Contact
-
-For any queries or suggestions, feel free to connect!
-
----
-
-Made with ❤️ by Guna,Frontend dev.
