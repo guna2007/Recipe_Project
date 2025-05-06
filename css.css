@@ -1,0 +1,107 @@
+body 
+{
+    font-size: 1.25rem;
+    background-color: papayawhip;
+}
+
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+
+.wrapper 
+{
+    margin-top: 80px;
+    background-color: white;
+    width: 60%;
+    margin-inline: auto;
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 80px;
+}
+
+.header 
+{
+    /* border: 1px solid red; */
+    margin: 5px;
+    padding: 0 5px 0 5px;
+}
+
+.heading {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.162);
+    color: rgba(0, 0, 0, 0.774);
+}
+
+.text {
+    font-family:   Calibri;
+    color: rgba(0, 0, 0, 0.644);
+    font-weight: bold;
+}
+
+li {
+    font-family:   Calibri;
+    color: rgba(0, 0, 0, 0.644);
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+/* now prep time */
+.prep-time {
+    background-color: rgba(221, 172, 221, 0.183);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.prep-time h3 {
+    padding-left: 10px;
+    color: rgba(180, 4, 118, 0.824);
+}
+
+ul {
+    line-height: 5vh;
+}
+
+ol {
+    line-height: 5vh;
+}
+
+.ingredients {
+    margin: 10px 0 30px 0;
+}
+
+.redhead {
+    color: rgba(113, 0, 30, 0.861);
+}
+
+.instructions {
+    margin: 10px 0 30px 0;
+}
+
+.table {
+    width: 80%;
+    margin-left: 50px;
+    font-family:   Calibri;
+    color: rgba(0, 0, 0, 0.644);
+    font-weight: bold;
+    border-collapse: collapse;
+}
+
+.table tr {
+    width: 100%;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+
+}
+td {
+    padding: 15px 8px; /* Increase top & bottom padding */
+}
+
+
+tr:last-child {
+    border-bottom: none;
+}
